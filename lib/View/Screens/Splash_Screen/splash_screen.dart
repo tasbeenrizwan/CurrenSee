@@ -14,6 +14,8 @@ import '../../../Utils/app_constants.dart';
 class SplashScreen extends StatefulWidget {
   const SplashScreen({Key? key}) : super(key: key);
 
+
+//test from maaz
   @override
   _SplashViewState createState() => _SplashViewState();
 }
